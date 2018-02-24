@@ -104,3 +104,6 @@ website_env/
 
 # mypy
 .mypy_cache/
+
+#Pycharm
+.idea/
